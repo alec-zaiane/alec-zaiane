@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hey there 👋, I'm Alec
+I'm a university student taking honors computer science, and enjoy tinkering with a little bit of everything.
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alec-zaiane&theme=rose-pine&mode=weekly)](https://git.io/streak-stats)
 <!--
 **alec-zaiane/alec-zaiane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
